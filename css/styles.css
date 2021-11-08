@@ -102,7 +102,8 @@ button:focus,
 }
 
 .profile-info {
-  flex: 1 1 100px;
+  display: flex;
+  flex-direction: column;
 }
 
 /*  If you don’t want a specific element of your content flowing around a floated element, you need to give that element the property clear and the value both, which will clear all floats, both right and left */

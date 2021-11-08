@@ -146,9 +146,13 @@ button:focus,
 }
 
 .profile-info {
-  -webkit-box-flex: 1;
-      -ms-flex: 1 1 100px;
-          flex: 1 1 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 /*  If you don’t want a specific element of your content flowing around a floated element, you need to give that element the property clear and the value both, which will clear all floats, both right and left */
