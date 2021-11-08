@@ -191,6 +191,11 @@ button:focus,
   padding: 20px;
 }
 
+.standard-label {
+  color: #fff;
+  line-height: 30px;
+}
+
 .contact-form textarea {
   max-width: 100%;
 }
