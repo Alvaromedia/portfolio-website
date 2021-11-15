@@ -202,6 +202,25 @@ section {
   }
 }
 
+@media all and (min-width: 500px) and (max-width: 650px) {
+  .profile {
+    width: 100%;
+    display: grid;
+    max-width: min-content;
+    margin: auto;
+    text-align: center;
+  }
+  .about-container {
+    margin: 0 auto;
+  }
+  .profile__portrait {
+    margin-right: 0;
+  }
+  table {
+    margin: 0 auto;
+  }
+}
+
 @media all and (max-width: 500px) {
   .profile {
     width: 100%;
