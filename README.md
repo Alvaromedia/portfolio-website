@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Alvaro</h1>
-<h3 align="center">A passionate web developer student from Croatia</h3>
+<h1 align="center">This is my portfolio</h1>
+<h3 align="center">It is the very first project of a course I'm attending</h3>
 
-- 🔭 I’m currently working on [a portfolio website](https://github.com/Alvaromedia/portfolio-website)
+- In this project I’m currently practicing **HTML, CSS and JavaScript**
+- The README file will get updated once the project starts to look detailed
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Alvaromedia](https://github.com/Alvaromedia)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
