@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "source sans pro", sans-serif;
+  font-family: 'source sans pro', sans-serif;
   font-weight: 400;
   font-size: 16px;
   /* Sets the font size to 16px */
@@ -144,11 +144,6 @@ section {
     width: auto;
     min-height: auto;
     margin: 0;
-  }
-
-  .project-list__item:last-child {
-    grid-column: 3 / 3;
-    grid-row: 1 / 3;
   }
 }
 
